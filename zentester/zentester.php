@@ -39,7 +39,7 @@ function options_page_zentester() {
 
 function load_zentester($zentester_test_key) {
 ?>
-<script type="text/javascript" src="http://app.zentester.com/index.php/remote/load_zentester/<?php echo $zentester_test_key?>/zentester.js"></script>"
+<script type="text/javascript" src="http://app.zentester.com/index.php/remote/load_zentester/<?php echo $zentester_test_key?>/zentester.js"></script>
 <?php
 }
 
